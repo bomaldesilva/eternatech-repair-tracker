@@ -1,0 +1,38 @@
+<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Dark blue square with rounded corners -->
+  <rect x="3" y="3" width="19" height="19" rx="3" fill="#1e3a8a"/>
+  
+  <!-- Circuit board pattern -->
+  <g stroke="#ffffff" stroke-width="0.8" fill="none">
+    <!-- Horizontal lines -->
+    <line x1="6" y1="8" x2="19" y2="8"/>
+    <line x1="6" y1="14" x2="19" y2="14"/>
+    <line x1="6" y1="20" x2="16" y2="20"/>
+    
+    <!-- Vertical lines -->
+    <line x1="10" y1="6" x2="10" y2="22"/>
+    <line x1="16" y1="6" x2="16" y2="22"/>
+    
+    <!-- Diagonal connections -->
+    <line x1="10" y1="8" x2="16" y2="14"/>
+    <line x1="16" y1="8" x2="10" y2="14"/>
+  </g>
+  
+  <!-- Small circles (connection points) -->
+  <circle cx="10" cy="8" r="1.2" fill="#ffffff"/>
+  <circle cx="16" cy="8" r="1.2" fill="#ffffff"/>
+  <circle cx="10" cy="14" r="1.2" fill="#ffffff"/>
+  <circle cx="16" cy="14" r="1.2" fill="#ffffff"/>
+  <circle cx="10" cy="20" r="1.2" fill="#ffffff"/>
+  <circle cx="16" cy="20" r="1.2" fill="#ffffff"/>
+  
+  <!-- Wrench overlapping bottom right -->
+  <g transform="translate(14, 16)">
+    <!-- Wrench handle -->
+    <rect x="0" y="0" width="6" height="1.5" rx="0.8" fill="#1e3a8a"/>
+    <!-- Wrench head -->
+    <path d="M 6 0.8 A 2.5 2.5 0 0 1 6 5.8 A 2.5 2.5 0 0 1 6 0.8" fill="none" stroke="#1e3a8a" stroke-width="1.5"/>
+    <!-- Wrench opening -->
+    <path d="M 4.8 0.8 A 0.8 0.8 0 0 1 4.8 5.8 A 0.8 0.8 0 0 1 4.8 0.8" fill="#ffffff"/>
+  </g>
+</svg>
