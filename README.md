@@ -2,7 +2,6 @@
 A Hardware Repair Tracking System developed as a first-year, first-semester university project. Built with PHP using a classic mini-MVC architecture, and a vanilla HTML, CSS, &amp; JavaScript front end.
 # EternaTech Repair Tracker ⚙️
 
-![EternaTech](https://img.shields.io/badge/Project-EternaTech%20Repair%20Tracker-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI+PHBhdGggZD0iTTE5LjM1IDguMDNBOC45OSA4Ljk5IDAgMCAwIDEyIDUgOC45OSA4Ljk5IDAgMCAwIDQuNjUgOC4wMyA3IDcgMCAwIDAgNSAxOS45MmMuMzYuMDQuNzEuMDguMS4wOGgyLjE0Yy4wNSAwIC4xLS4wMi4xMy0uMDZsMS4zMy0xLjg5Yy4wOC0uMTEuMDgtLjI2IDAtLjM4bC0xLjMxLTEuODZjLS4wMy0uMDQtLjA4LS4wNi0uMTItLjA2SDUuMTFhNSA1IDAgMCAxIDQuOTEtMy45OSA1LjAwMiA1LjAwMiAwIDAgMSAzLjk4IDAgNSA1IDAgMCAxIDQuOTEgMy45OWgtMS44M2MtLjA1IDAtLjA5LjAyLS4xMi4wNkwxNS43MiAxNy43Yy0uMDguMTEtLjA4LjI2IDAgLjM4bDEuMzMgMS44OWMuMDQuMDQuMDguMDYuMTMuMDZoMi4xNEMxOC4yOSAyMCAxOC42NCAyMCAxOSA MTkuOTJhNyA3IDAgMCAwLTEuNjUtMTEuODlaTTggMTYuNWExLjUgMS41IDAgMSAwIDAgMyAxLjUgMS41IDAgMSAwIDAtM1ptOCAwYTEuNSAxLjUgMCAxIDAgMCAzIDEuNSAxLjUgMCAxIDAgMC0zaCIvPjwvc3ZnPg==)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
